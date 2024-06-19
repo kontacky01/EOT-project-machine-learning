@@ -1,0 +1,1 @@
+Speech Brain is big established project and library about EEG data.My project involved exploring whether a simpler ML model could achieve the same accuracy as the existing complex models. This hands-on experience has solidified my understanding and enthusiasm for machine learning applications.
